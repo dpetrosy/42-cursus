@@ -68,10 +68,8 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
 
-## 📈 My 42 Stats Card!
+## 👤 My 42 Stats Card!
 
 **begin date : 09/March/2022 👨🏻‍💻**
-
-🪪
 
 [![dpetrosy's 42 stats](https://badge42.vercel.app/api/v2/cl2yjehd0002109jwchoa5f4u/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
