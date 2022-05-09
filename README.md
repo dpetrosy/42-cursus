@@ -20,7 +20,7 @@
 
 \* For further information about 42's **selection process** (the "Piscine"), please visit the [C Piscine repo](https://github.com/dpetrosy/42_piscine).
 
-[![Photo of a 42 Yerevan lab](42_Yerevan.jpg)](https://www.42yerevan.am/)
+[![Photo of a 42 Yerevan lab](README_files/42_Yerevan.jpg)](https://www.42yerevan.am/)
 
 ## 🛠️ Skills developed at 42cursus
 
@@ -64,6 +64,6 @@ The **inner circle** is the basic curriculum, with all projects being mandatory 
 
 The **outer treks** is a collection of diverse project trails in subjects ranging from operational systems to web development which allows cadets to specialize on whatever subject they prefer.
 
-![42's galaxy](galaxy.png)
+![42's galaxy](holy_graph.png)
 
 The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
