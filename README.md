@@ -84,7 +84,3 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 | 02     | [Born2beroot](./02_born2beroot)                                                 | Bash        | `Virtual machine` <br /> `Linux` `SSH` <br /> `Network & System administration` <br /> `Firewall` `Bash scripte`                  | 577       | [![dpetrosy's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/cl2yjehd0002109jwchoa5f4u/project/2563283)](https://github.com/JaeSeoKim/badge42)       |  2 - 14%           |
 | 02     | Exam Rank 02                                                                    | C           | `C piscine Final Exam` <br /> `Functions from Libft`                                                                              | 0         | [![dpetrosy's 42 Exam Rank 02 Score](https://badge42.vercel.app/api/v2/cl2yjehd0002109jwchoa5f4u/project/2575707)](https://github.com/JaeSeoKim/badge42)      | no increse         |
 | 03     | [push_swap](./push_swap)                                                        | C           | `algorithm` `stack` `sort`                                                                                                        | 1855      | [![dpetrosy's 42 push_swap Score](https://badge42.vercel.app/api/v2/cl2yuh8s9004909jwelgj2fud/project/2585214)](https://github.com/JaeSeoKim/badge42)         | no increse         |
-
-
-
-
