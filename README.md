@@ -67,3 +67,13 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 ![42's galaxy](README_files/holy_graph.png)
 
 The table below presents the cursus curriculum in the chronological order in which it was (or is to be) completed by me - projects order and corresponding attained level may vary among students.
+
+
+
+
+
+
+
+
+
+[![dpetrosy's 42 stats](https://badge42.vercel.app/api/v2/cl2yjehd0002109jwchoa5f4u/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
