@@ -8,6 +8,10 @@
 	<a href="#%EF%B8%8F-skills-developed-at-42cursus">Skills developed at 42cursus</a>
 	<span> · </span>
 	<a href="#-42s-galaxy-curriculum">42's galaxy (curriculum)</a>
+	<br />
+	<a href="#-my-42-stats-card">My 42 Stats Card</a>
+	<span> · </span>
+	<a href="#-project-list">Project List</a>
 </h3>
 
 ## 🗣️ About 42
@@ -72,7 +76,7 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 [![dpetrosy's 42 stats](https://badge42.vercel.app/api/v2/cl2yjehd0002109jwchoa5f4u/stats?cursusId=21&coalitionId=undefined)](https://github.com/JaeSeoKim/badge42)
 
-## 📜Project List
+## 📜 Project List
 
 ### Common Circle
 
