@@ -70,7 +70,7 @@ The **outer treks** is a collection of diverse project trails in subjects rangin
 
 ![42's galaxy](README_files/holy_graph.png)
 
-## 👤 My 42 Stats Card!
+## 👤 My 42 Stats Card
 
 **begin date : 09/March/2022 👨🏻‍💻**
 
